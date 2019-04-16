@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: #EEE;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+li {
+  margin: 1rem;
+}
+
+input[type='checkbox'] {
+  margin-left: .3rem;
+  margin-right: .3rem;
+}
+
+.mdl-card {
+  margin: 5rem;
+  padding: 3rem;
+  width: 800px;
+  display: inline-block;
+}
+
+.inputForm {
+  display: inline-block;
+  text-align: center;
+  margin: 1rem;
+}
+
+.generatedList {
+  text-align: center;
+}
+
+.cardTitle {
+  text-align: center;
+}
